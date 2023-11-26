@@ -405,7 +405,7 @@
                     </div>
                 </div>
             </div>
-            {{-- <div class="fugu--content-bottom">
+            <div class="fugu--content-bottom">
                 <div class="row">
                     <div class="col-xl-6 d-flex align-items-center">
                         <div class="fugu--content-thumb">
@@ -475,13 +475,13 @@
                                 </div>
                             </div>
                             <div class="fugu--btn-wrap">
-                                <a class="fugu--btn bg-blue" href="#">Register</a>
+                                <a class="fugu--btn bg-blue" href="https://fbs.partners?ibl=813364&ibp=33788856">Register</a>
                             </div>
                         </div>
                     </div>
 
                 </div>
-            </div> --}}
+            </div>
         </div>
 
     </div>
