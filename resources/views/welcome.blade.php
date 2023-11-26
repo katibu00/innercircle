@@ -1,6 +1,7 @@
 @extends('layouts.app')
 @section('pageTitle', 'Home')
 @section('content')
+    <div id="home"></div>
     <div class="fugu--client-section">
         <div class="container">
             <div class="fugu--client-title">
@@ -43,8 +44,153 @@
     </div>
     <!-- End client section -->
 
+
+    <div class="fugu--inner-section dark-version">
+        <div class="container">
+            <div class="fugu--section-title">
+                <div class="fugu--default-content">
+                    <h2>Choose Your Trading Advantage</h2>
+                    <p>Tailored Service Plans for Every Trader's Success.</p>
+                </div>
+            </div>
+            <div class="section fugu-pricing-dark">
+                <div class="container">
+                    <div id="service-plans"></div>
+                    <div class="row" id="table-price-value" data-pricing-dynamic data-value-active="monthly">
+                        <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
+                            <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay="0s">
+                                <div class="fugu-pricing-header">
+                                    <h5>Basic</h5>
+                                </div>
+                                <div class="fugu-pricing-price">
+                                    <span class="fugu-pricing-currency">$</span>
+                                    <div class="fugu-price dynamic-value" data-active="0" data-monthly="0" data-yearly="0">
+                                    </div>
+                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
+                                        data-yearly="/y"></p>
+                                </div>
+                                <p>Suitable for small companies and personal use</p>
+                                <div class="fugu-pricing-body">
+                                    <span>What you get:</span>
+                                    <ul>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
+                                            trading</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">1-year standard support
+                                        </li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $100K
+                                        </li>
+                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">10 GB
+                                            Disk space</li>
+                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">Free
+                                            custom domain</li>
+                                    </ul>
+                                </div>
+                                <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
+                            </div>
+                        </div>
+                        <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
+                            <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay=".10s">
+                                <div class="fugu-pricing-header">
+                                    <h5>Starter Plan</h5>
+                                </div>
+                                <div class="fugu-pricing-price">
+                                    <span class="fugu-pricing-currency">$</span>
+                                    <div class="fugu-price dynamic-value" data-active="19" data-monthly="19"
+                                        data-yearly="199"></div>
+                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
+                                        data-yearly="/y"></p>
+                                </div>
+                                <p>Suitable for small companies and personal use</p>
+                                <div class="fugu-pricing-body">
+                                    <span>What you get:</span>
+                                    <ul>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
+                                            trading</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">5-year standard support
+                                        </li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $500K
+                                        </li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">10 GB Disk space</li>
+                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">Free
+                                            custom domain</li>
+                                    </ul>
+                                </div>
+                                <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
+                            </div>
+                        </div>
+                        <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
+                            <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay=".20s">
+                                <div class="fugu-pricing-header">
+                                    <h5>Professional Plan</h5>
+                                </div>
+                                <div class="fugu-pricing-price">
+                                    <span class="fugu-pricing-currency">$</span>
+                                    <div class="fugu-price dynamic-value" data-active="49" data-monthly="49"
+                                        data-yearly="250"></div>
+                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
+                                        data-yearly="/y"></p>
+                                </div>
+                                <p>Suitable for small companies and personal use</p>
+                                <div class="fugu-pricing-body">
+                                    <span>What you get:</span>
+                                    <ul>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
+                                            trading</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">10-year standard
+                                            support</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $800K
+                                        </li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">50 GB Disk space</li>
+                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">Free
+                                            custom domain</li>
+                                    </ul>
+                                </div>
+                                <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
+                            </div>
+                        </div>
+                        <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
+                            <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay=".30s">
+                                <div class="fugu-pricing-header">
+                                    <h5>Exclusive Plan</h5>
+                                </div>
+                                <div class="fugu-pricing-price">
+                                    <span class="fugu-pricing-currency">$</span>
+                                    <div class="fugu-price dynamic-value" data-active="119" data-monthly="119"
+                                        data-yearly="299"></div>
+                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
+                                        data-yearly="/y"></p>
+                                </div>
+                                <p>Suitable for small companies and personal use</p>
+                                <div class="fugu-pricing-body">
+                                    <span>What you get:</span>
+                                    <ul>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
+                                            trading</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Unlimited standard
+                                            support</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $1000K
+                                        </li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">100 GB Disk space</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Free custom domain</li>
+                                    </ul>
+                                </div>
+                                <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="fugu--video-section">
         <div class="container">
+            <div class="fugu--section-title">
+                <div class="fugu--default-content">
+                    <h2>Discover Inner Circle Traders</h2>
+                    <p>Your Path to Trading Excellence Begins Here</p>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-xl-6">
                     <div class="fugu--video-thumb wow fadeInUpX" data-wow-delay="0.10s">
@@ -65,7 +211,6 @@
                 </div>
                 <div class="col-xl-6 d-flex align-items-center">
                     <div class="fugu--default-content">
-                        <h2>Inner Circle Traders</h2>
                         <p>Inner Circle Traders (ICT). We explores our discoveries and perspectives on various topics
                             relating to Forex, indices, stock and cryptocurrency trading. We’re professional traders, we
                             have discovered our “sweet spot” in trading and We’re aiming to help you find yours. We’re
@@ -341,7 +486,7 @@
 
     </div>
     <!-- End content section -->
-
+    <div id="testimonials"></div>
     <div class="fugu--testimonial-section fugu--section-padding">
         <div class="container">
             <div class="fugu--section-title">
@@ -363,7 +508,10 @@
                             </ul>
                         </div>
                         <div class="fugu--testimonial-data">
-                          <p>"Simple and effective. I enjoyed the content and the teaching style. 2 words will remain in my head forever: confluence and confirmation.  Got rid of all my indicators, added the leading tools presented and now I have a new perspective on trading. I 100% recommend this course."</p>
+                            <p>"Simple and effective. I enjoyed the content and the teaching style. 2 words will remain in
+                                my head forever: confluence and confirmation. Got rid of all my indicators, added the
+                                leading tools presented and now I have a new perspective on trading. I 100% recommend this
+                                course."</p>
                         </div>
                         <div class="fugu--testimonial-author">
                             <div class="fugu--testimonial-author-thumb">
@@ -388,7 +536,9 @@
                             </ul>
                         </div>
                         <div class="fugu--testimonial-data">
-                          <p>"One of the best trading courses I’ve purchased. I don’t have much time to trade and this course suits me perfectly. I feel confident after a few trades that this course really improved my style. The content is A+, very easy to understand with great visuals!"</p>
+                            <p>"One of the best trading courses I’ve purchased. I don’t have much time to trade and this
+                                course suits me perfectly. I feel confident after a few trades that this course really
+                                improved my style. The content is A+, very easy to understand with great visuals!"</p>
                         </div>
                         <div class="fugu--testimonial-author">
                             <div class="fugu--testimonial-author-thumb">
@@ -413,7 +563,9 @@
                             </ul>
                         </div>
                         <div class="fugu--testimonial-data">
-                          <p>"This program works and I highly recommend it. It helped me take everything that I knew about trading and scale it. I was dependent on lagging indicators and signals, but this course opened my eyes.  Five star recommendation!"</p>
+                            <p>"This program works and I highly recommend it. It helped me take everything that I knew about
+                                trading and scale it. I was dependent on lagging indicators and signals, but this course
+                                opened my eyes. Five star recommendation!"</p>
                         </div>
                         <div class="fugu--testimonial-author">
                             <div class="fugu--testimonial-author-thumb">
@@ -513,143 +665,6 @@
     <!-- End fugu testimonial-section -->
 
 
-
-
-    <div class="fugu--inner-section dark-version">
-        <div class="container">
-           
-            <div class="section fugu-pricing-dark">
-                <div class="container">
-                    <div class="row" id="table-price-value" data-pricing-dynamic data-value-active="monthly">
-                        <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
-                            <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay="0s">
-                                <div class="fugu-pricing-header">
-                                    <h5>Basic</h5>
-                                </div>
-                                <div class="fugu-pricing-price">
-                                    <span class="fugu-pricing-currency">$</span>
-                                    <div class="fugu-price dynamic-value" data-active="0" data-monthly="0"
-                                        data-yearly="0"></div>
-                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
-                                        data-yearly="/y"></p>
-                                </div>
-                                <p>Suitable for small companies and personal use</p>
-                                <div class="fugu-pricing-body">
-                                    <span>What you get:</span>
-                                    <ul>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
-                                            trading</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">1-year standard support
-                                        </li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $100K
-                                        </li>
-                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">10 GB
-                                            Disk space</li>
-                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">Free
-                                            custom domain</li>
-                                    </ul>
-                                </div>
-                                <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
-                            </div>
-                        </div>
-                        <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
-                            <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay=".10s">
-                                <div class="fugu-pricing-header">
-                                    <h5>Starter Plan</h5>
-                                </div>
-                                <div class="fugu-pricing-price">
-                                    <span class="fugu-pricing-currency">$</span>
-                                    <div class="fugu-price dynamic-value" data-active="19" data-monthly="19"
-                                        data-yearly="199"></div>
-                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
-                                        data-yearly="/y"></p>
-                                </div>
-                                <p>Suitable for small companies and personal use</p>
-                                <div class="fugu-pricing-body">
-                                    <span>What you get:</span>
-                                    <ul>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
-                                            trading</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">5-year standard support
-                                        </li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $500K
-                                        </li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">10 GB Disk space</li>
-                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">Free
-                                            custom domain</li>
-                                    </ul>
-                                </div>
-                                <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
-                            </div>
-                        </div>
-                        <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
-                            <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay=".20s">
-                                <div class="fugu-pricing-header">
-                                    <h5>Professional Plan</h5>
-                                </div>
-                                <div class="fugu-pricing-price">
-                                    <span class="fugu-pricing-currency">$</span>
-                                    <div class="fugu-price dynamic-value" data-active="49" data-monthly="49"
-                                        data-yearly="250"></div>
-                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
-                                        data-yearly="/y"></p>
-                                </div>
-                                <p>Suitable for small companies and personal use</p>
-                                <div class="fugu-pricing-body">
-                                    <span>What you get:</span>
-                                    <ul>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
-                                            trading</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">10-year standard
-                                            support</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $800K
-                                        </li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">50 GB Disk space</li>
-                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">Free
-                                            custom domain</li>
-                                    </ul>
-                                </div>
-                                <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
-                            </div>
-                        </div>
-                        <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
-                            <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay=".30s">
-                                <div class="fugu-pricing-header">
-                                    <h5>Exclusive Plan</h5>
-                                </div>
-                                <div class="fugu-pricing-price">
-                                    <span class="fugu-pricing-currency">$</span>
-                                    <div class="fugu-price dynamic-value" data-active="119" data-monthly="119"
-                                        data-yearly="299"></div>
-                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
-                                        data-yearly="/y"></p>
-                                </div>
-                                <p>Suitable for small companies and personal use</p>
-                                <div class="fugu-pricing-body">
-                                    <span>What you get:</span>
-                                    <ul>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
-                                            trading</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Unlimited standard
-                                            support</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $1000K
-                                        </li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">100 GB Disk space</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Free custom domain</li>
-                                    </ul>
-                                </div>
-                                <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-
-
     <div class="fugu--faq-section2 fugu--section-padding-bottom">
         <div class="container">
             <div class="fugu--section-title">
@@ -671,7 +686,8 @@
                             <div id="collapseFive" class="accordion-collapse collapse show" aria-labelledby="headingFour"
                                 data-bs-parent="#accordionExample2">
                                 <div class="accordion-body">
-                                  This program is suitable for beginners, but also for intermediate traders who already have some knowledge/experience.
+                                    This program is suitable for beginners, but also for intermediate traders who already
+                                    have some knowledge/experience.
                                 </div>
                             </div>
                         </div>
@@ -685,7 +701,8 @@
                             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
                                 data-bs-parent="#accordionExample2">
                                 <div class="accordion-body">
-                                 Any market: Forex, stocks, crypto, futures, commodities etc. The strategies are based on key levels trading, which can be applied on all financial markets.
+                                    Any market: Forex, stocks, crypto, futures, commodities etc. The strategies are based on
+                                    key levels trading, which can be applied on all financial markets.
                                 </div>
                             </div>
                         </div>
@@ -699,25 +716,28 @@
                             <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
                                 data-bs-parent="#accordionExample2">
                                 <div class="accordion-body">
-                                The recommended minimum for swing trading on a daily time-frame is $5k. This is only a rough guideline.
+                                    The recommended minimum for swing trading on a daily time-frame is $5k. This is only a
+                                    rough guideline.
                                 </div>
                             </div>
                         </div>
 
                         <div class="accordion-item">
-                          <h2 class="accordion-header" id="heading12">
-                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                  data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                  Q. Are There Refunds Available?
-                              </button>
-                          </h2>
-                          <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12"
-                              data-bs-parent="#accordionExample2">
-                              <div class="accordion-body">
-                                No. Due to the digital nature of all course materials, and assets,  The InnerCircle LLC is not able to accept returns of any kind. Before making a purchase, please carefully read the product details to ensure compatibility.
-                              </div>
-                          </div>
-                      </div>
+                            <h2 class="accordion-header" id="heading12">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+                                    Q. Are There Refunds Available?
+                                </button>
+                            </h2>
+                            <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12"
+                                data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    No. Due to the digital nature of all course materials, and assets, The InnerCircle LLC
+                                    is not able to accept returns of any kind. Before making a purchase, please carefully
+                                    read the product details to ensure compatibility.
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                     <div class="col-lg-6">
@@ -725,16 +745,24 @@
                             <h2 class="accordion-header" id="headingEight">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
-                                    Q. Why Should I Enroll When You Already Offer A Lot Of Free Content On Your YouTube Channel?
+                                    Q. Why Should I Enroll When You Already Offer A Lot Of Free Content On Your YouTube
+                                    Channel?
                                 </button>
                             </h2>
                             <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight"
                                 data-bs-parent="#accordionExample2">
                                 <div class="accordion-body">
-                                  The free content on my YouTube channel is great for having the correct foundation in trading and getting familiar with the market. I share valuable insights that will help you get started and grow as a trader, without needing to enroll in the program.<br>However, the free content has its limitations. It does not cover all the aspects of trading that you need to master to succeed.
-                                  This program gives you access to the exact tools and strategies that can help you analyze the market.<br>
-                                  It teaches you in-depth strategies, tools, and techniques that we have used and tested in the markets for years.<br>
-                                  It is not just another course that gives you some generic information. It is a complete learning experience that will guide you step by step to achieve your trading goals.
+                                    The free content on my YouTube channel is great for having the correct foundation in
+                                    trading and getting familiar with the market. I share valuable insights that will help
+                                    you get started and grow as a trader, without needing to enroll in the
+                                    program.<br>However, the free content has its limitations. It does not cover all the
+                                    aspects of trading that you need to master to succeed.
+                                    This program gives you access to the exact tools and strategies that can help you
+                                    analyze the market.<br>
+                                    It teaches you in-depth strategies, tools, and techniques that we have used and tested
+                                    in the markets for years.<br>
+                                    It is not just another course that gives you some generic information. It is a complete
+                                    learning experience that will guide you step by step to achieve your trading goals.
                                 </div>
                             </div>
                         </div>
@@ -748,7 +776,8 @@
                             <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                                 data-bs-parent="#accordionExample2">
                                 <div class="accordion-body">
-                                 Any charting software can be used. We use TradingView and thus all charts presented in the program are displayed in this platform.
+                                    Any charting software can be used. We use TradingView and thus all charts presented in
+                                    the program are displayed in this platform.
                                 </div>
                             </div>
                         </div>
@@ -762,27 +791,32 @@
                             <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
                                 data-bs-parent="#accordionExample2">
                                 <div class="accordion-body">
-                                 It depends on the plan you choose 2 months, 3 months 6 months and life-time access to InnerCircle. On top of this, access to all ongoing, future updates to the course is included as well.
+                                    It depends on the plan you choose 2 months, 3 months 6 months and life-time access to
+                                    InnerCircle. On top of this, access to all ongoing, future updates to the course is
+                                    included as well.
                                 </div>
                             </div>
                         </div>
 
                         <div class="accordion-item">
-                          <h2 class="accordion-header" id="heading11">
-                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                  data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                  Q. Can You Guarantee My Trading Results?
-                              </button>
-                          </h2>
-                          <div id="collapse11" class="accordion-collapse collapse" aria-labelledby="heading11"
-                              data-bs-parent="#accordionExample2">
-                              <div class="accordion-body">
-                               Your success depends primarily on your own effort, motivation, commitment and follow-through. We cannot and do not guarantee that you will attain a trading result or income increase, and you accept and understand that results differ by each individual. Please read carefully the disclaimer on our website: https://icircletrader.com/
-                              </div>
-                          </div>
-                      </div>
+                            <h2 class="accordion-header" id="heading11">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+                                    Q. Can You Guarantee My Trading Results?
+                                </button>
+                            </h2>
+                            <div id="collapse11" class="accordion-collapse collapse" aria-labelledby="heading11"
+                                data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    Your success depends primarily on your own effort, motivation, commitment and
+                                    follow-through. We cannot and do not guarantee that you will attain a trading result or
+                                    income increase, and you accept and understand that results differ by each individual.
+                                    Please read carefully the disclaimer on our website: https://icircletrader.com/
+                                </div>
+                            </div>
+                        </div>
 
-                     
+
                     </div>
                 </div>
 
@@ -817,8 +851,8 @@
                             <h2>Take Your Trading to the Next Level</h2>
                             <p>Join Inner Circle Traders Today for Exclusive Insights and Strategies</p>
                             <div class="fugu--btn-wrap">
-                              <a class="fugu--btn bg-black" href="#">Join Our WhatsApp Channel</a>
-                          </div>
+                                <a class="fugu--btn bg-black" href="https://whatsapp.com/channel/0029Va4SghpId7nSr6dBSK1d">Join Our WhatsApp Channel</a>
+                            </div>
                         </div>
                     </div>
                 </div>

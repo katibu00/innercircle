@@ -3,7 +3,7 @@
       <nav class="navbar site-navbar">
         <!-- Brand Logo-->
         <div class="brand-logo rt-mr-20">
-          <a href="index.html">
+          <a href="#home">
             <img src="/logo.jpeg" alt="" class="light-version-logo">
           </a>
         </div>
@@ -21,23 +21,23 @@
             
              
               <li class="nav-item">
-                <a href="#" class="nav-link-item">Home</a>
+                <a href="#home" class="nav-link-item">Home</a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link-item">About Us</a>
+                <a href="#service-plans" class="nav-link-item">Service Plans</a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link-item">Testimonials</a>
+                <a href="#testimonials" class="nav-link-item">Testimonials</a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link-item">Service Plans</a>
+                <a href="#about-us" class="nav-link-item">About Us</a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link-item">Contact us</a>
+                <a href="#contact-us" class="nav-link-item">Contact us</a>
               </li>
               
               <li class="header-btn header-btn-l1 fugu-responsive-btn">
-                <a class="fugu--btn fugu--menu-btn3" href="#">
+                <a class="fugu--btn fugu--menu-btn3" href="https://whatsapp.com/channel/0029Va4SghpId7nSr6dBSK1d">
                   Join Us
                 </a>
               </li>
@@ -45,8 +45,8 @@
           </nav>
         </div>
         <div class="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-          <a class="fugu--btn fugu--menu-btn3" href="contact.html">
-            Get Started
+          <a class="fugu--btn fugu--menu-btn3" href="https://whatsapp.com/channel/0029Va4SghpId7nSr6dBSK1d">
+            Join Us
           </a>
         </div>
         <!-- mobile menu trigger -->
