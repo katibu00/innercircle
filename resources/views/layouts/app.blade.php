@@ -70,7 +70,6 @@
   <script src="/frontend/js/countdown.js"></script>
   <script src="/frontend/js/wow.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyArZVfNvjnLNwJZlLJKuOiWHZ6vtQzzb1Y"></script>
-  <script src="https://fbs.partners/banner/38613759c7bc68d9580b15bc71039e5d18718ca73f2d516943d349018af5123d/6089/script.js?ibp=33788856" id="38613759c7bc68d9580b15bc71039e5d18718ca73f2d516943d349018af5123d" async></script>
   <script src="/frontend/js/app.js"></script>
 </body>
 </html>
