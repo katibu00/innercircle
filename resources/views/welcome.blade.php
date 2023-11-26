@@ -60,29 +60,24 @@
                         <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
                             <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay="0s">
                                 <div class="fugu-pricing-header">
-                                    <h5>Basic</h5>
+                                    <h5>Basic (3months)</h5>
                                 </div>
                                 <div class="fugu-pricing-price">
                                     <span class="fugu-pricing-currency">$</span>
-                                    <div class="fugu-price dynamic-value" data-active="0" data-monthly="0" data-yearly="0">
+                                    <div class="fugu-price dynamic-value" data-active="0" data-monthly="100" data-yearly="0">
                                     </div>
-                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
+                                    <p class="bottom_text dynamic-value" data-active="" data-monthly=""
                                         data-yearly="/y"></p>
                                 </div>
-                                <p>Suitable for small companies and personal use</p>
+                                <p>Suitable for non TA traders</p>
                                 <div class="fugu-pricing-body">
                                     <span>What you get:</span>
                                     <ul>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
-                                            trading</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">1-year standard support
-                                        </li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $100K
-                                        </li>
-                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">10 GB
-                                            Disk space</li>
-                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">Free
-                                            custom domain</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Crypto Trading Signals</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Online Support Group</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Supportive Community</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Risk Management Strategies</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Psychology</li>                                       
                                     </ul>
                                 </div>
                                 <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
@@ -91,28 +86,26 @@
                         <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
                             <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay=".10s">
                                 <div class="fugu-pricing-header">
-                                    <h5>Starter Plan</h5>
+                                    <h5>Starters (6months)</h5>
                                 </div>
                                 <div class="fugu-pricing-price">
                                     <span class="fugu-pricing-currency">$</span>
-                                    <div class="fugu-price dynamic-value" data-active="19" data-monthly="19"
+                                    <div class="fugu-price dynamic-value" data-active="200" data-monthly="200"
                                         data-yearly="199"></div>
-                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
+                                    <p class="bottom_text dynamic-value" data-active="" data-monthly=""
                                         data-yearly="/y"></p>
                                 </div>
-                                <p>Suitable for small companies and personal use</p>
+                                <p>Suitable for those looking to gain mastering in trading</p>
                                 <div class="fugu-pricing-body">
                                     <span>What you get:</span>
                                     <ul>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
-                                            trading</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">5-year standard support
-                                        </li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $500K
-                                        </li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">10 GB Disk space</li>
-                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">Free
-                                            custom domain</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Live Trading Class</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Signals on Crypto & Forex</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Online Support Group</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Supportive Community</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Educational Recorded Content</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Psychology</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Risk Management Strategies</li>                                        
                                     </ul>
                                 </div>
                                 <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
@@ -121,28 +114,31 @@
                         <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
                             <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay=".20s">
                                 <div class="fugu-pricing-header">
-                                    <h5>Professional Plan</h5>
+                                    <h5>Professional Plan (1 yr)</h5>
                                 </div>
                                 <div class="fugu-pricing-price">
                                     <span class="fugu-pricing-currency">$</span>
-                                    <div class="fugu-price dynamic-value" data-active="49" data-monthly="49"
+                                    <div class="fugu-price dynamic-value" data-active="500" data-monthly="500"
                                         data-yearly="250"></div>
-                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
+                                    <p class="bottom_text dynamic-value" data-active="" data-monthly=""
                                         data-yearly="/y"></p>
                                 </div>
-                                <p>Suitable for small companies and personal use</p>
+                                <p>Suitable for those looking to gain mastering in trading and access propfirm funds</p>
                                 <div class="fugu-pricing-body">
                                     <span>What you get:</span>
                                     <ul>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
-                                            trading</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">10-year standard
-                                            support</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $800K
-                                        </li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">50 GB Disk space</li>
-                                        <li class="disable"><img src="assets/images/svg/check6.svg" alt="">Free
-                                            custom domain</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Live Trading Class</li>
+
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Signals on Crypto, Forex & Metals</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Propfirm trading ( $5K - $100k Accts)</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Market Research on Crypto, Forex, & Metals.</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Online Support Group</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Supportive Community</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Educational Recorded Content</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Psychology</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">Risk Management Strategies</li>
+                                        <li><img src="assets/images/svg/check6.svg" alt="">ICT Concepts</li>
+                                       
                                     </ul>
                                 </div>
                                 <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
@@ -151,27 +147,32 @@
                         <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6">
                             <div class="fugu-pricing-wrap fugu-pricing-wrap3 wow fadeInUpX" data-wow-delay=".30s">
                                 <div class="fugu-pricing-header">
-                                    <h5>Exclusive Plan</h5>
+                                    <h5>Exclusive Plan (Lifetime)</h5>
                                 </div>
                                 <div class="fugu-pricing-price">
                                     <span class="fugu-pricing-currency">$</span>
-                                    <div class="fugu-price dynamic-value" data-active="119" data-monthly="119"
+                                    <div class="fugu-price dynamic-value" data-active="1000" data-monthly="1000"
                                         data-yearly="299"></div>
-                                    <p class="bottom_text dynamic-value" data-active="/m" data-monthly="/m"
+                                    <p class="bottom_text dynamic-value" data-active="" data-monthly=""
                                         data-yearly="/y"></p>
                                 </div>
-                                <p>Suitable for small companies and personal use</p>
+                                <p>Suitable for full time professional traders</p>
                                 <div class="fugu-pricing-body">
                                     <span>What you get:</span>
                                     <ul>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Real-time crypto
-                                            trading</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Unlimited standard
-                                            support</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Trading up to $1000K
-                                        </li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">100 GB Disk space</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Free custom domain</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">Lifetime Mentorship</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">Live Trading Class</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">Trading indicators</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">Signals on Crypto, Forex, Indices, Stocks,& Metals</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">Propfirm trading ( $5K - $1M Accts)</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">Market Research on Crypto, Forex, & Metals.</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">Online Support Group</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">Supportive Community</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">Educational Recorded Content</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">Psychology</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">Risk Management Strategies</li>
+                                      <li><img src="assets/images/svg/check6.svg" alt="">ICT Concepts</li>
+
                                     </ul>
                                 </div>
                                 <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
@@ -195,7 +196,7 @@
                 <div class="col-xl-6">
                     <div class="fugu--video-thumb wow fadeInUpX" data-wow-delay="0.10s">
                         <img src="/frontend/images/all-img/v5/video-thumb.png" alt="">
-                        <a class="fugu--popup" href="https://www.youtube.com/watch?v=7e90gBu4pas">
+                        <a class="fugu--popup" href="https://youtube.com/shorts/meB9LJJBaP4?si=9oIEk415gint1CPG">
                             <img src="/frontend/images/all-img/v5/play-button.png" alt="">
                             <div class="waves wave-1"></div>
                             <div class="waves wave-2"></div>
@@ -253,7 +254,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay="0s">
                         <div class="fugu--iconbox-thumb">
-                            <img src="path/to/asset-logo.png" alt="Asset Logo" width="41" height="45">
+                            <img src="/logo.jpeg" alt="Asset Logo" width="60" height="60">
                         </div>
                         <div class="fugu--iconbox-data">
                             <h4>Forex</h4>
@@ -271,7 +272,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay="0s">
                         <div class="fugu--iconbox-thumb">
-                            <img src="path/to/asset-logo.png" alt="Asset Logo" width="41" height="45">
+                          <img src="/logo.jpeg" alt="Asset Logo" width="60" height="60">
                         </div>
                         <div class="fugu--iconbox-data">
                             <h4>CRYPTO</h4>
@@ -289,7 +290,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay="0s">
                         <div class="fugu--iconbox-thumb">
-                            <img src="path/to/asset-logo.png" alt="Asset Logo" width="41" height="45">
+                          <img src="/logo.jpeg" alt="Asset Logo" width="60" height="60">
                         </div>
                         <div class="fugu--iconbox-data">
                             <h4>ENERGIES</h4>
@@ -307,7 +308,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay="0s">
                         <div class="fugu--iconbox-thumb">
-                            <img src="path/to/asset-logo.png" alt="Asset Logo" width="41" height="45">
+                          <img src="/logo.jpeg" alt="Asset Logo" width="60" height="60">
                         </div>
                         <div class="fugu--iconbox-data">
                             <h4>STOCK</h4>
@@ -325,7 +326,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay="0s">
                         <div class="fugu--iconbox-thumb">
-                            <img src="path/to/asset-logo.png" alt="Asset Logo" width="41" height="45">
+                          <img src="/logo.jpeg" alt="Asset Logo" width="60" height="60">
                         </div>
                         <div class="fugu--iconbox-data">
                             <h4>INDICIES</h4>
@@ -343,7 +344,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="fugu--iconbox-wrap fugu--iconbox-wrap3 wow fadeInUpX" data-wow-delay="0s">
                         <div class="fugu--iconbox-thumb">
-                            <img src="path/to/asset-logo.png" alt="Asset Logo" width="41" height="45">
+                          <img src="/logo.jpeg" alt="Asset Logo" width="60" height="60">
                         </div>
                         <div class="fugu--iconbox-data">
                             <h4>METALS</h4>
@@ -369,8 +370,7 @@
                 <div class="row">
                     <div class="col-xl-6 d-flex justify-content-center align-items-center order-xl-2">
                         <div class="fugu--content-thumb">
-                            <img class="wow fadeInUpX" data-wow-delay=".10s" src="/frontend/images/all-img/v5/thumb.png"
-                                alt="">
+                            <img class="wow fadeInUpX" data-wow-delay=".10s" src="/about_img.jpeg" alt="" height="70%" width="80%">
                             <div class="fugu--circle-shape circle-three">
                                 <img src="/frontend/images/all-img/shapes-round.png" alt="">
                                 <div class="waves wave-1"></div>
@@ -383,7 +383,7 @@
                     </div>
                     <div class="col-xl-6">
                         <div class="fugu--default-content">
-                            <h2>Master the Markets: A Proven Approach to Trading Success</h2>
+                            <h2>Discover where the smart money is buying and selling</h2>
                             <p>Are you tired of losing money in the markets due to lagging indicators that give you false
                                 signals and late entries? Do you want to learn how to trade using leading tools, key levels
                                 and volume that show you where the market is likely to reverse or break out? Do you want to
@@ -405,7 +405,7 @@
                     </div>
                 </div>
             </div>
-            <div class="fugu--content-bottom">
+            {{-- <div class="fugu--content-bottom">
                 <div class="row">
                     <div class="col-xl-6 d-flex align-items-center">
                         <div class="fugu--content-thumb">
@@ -475,13 +475,13 @@
                                 </div>
                             </div>
                             <div class="fugu--btn-wrap">
-                                <a class="fugu--btn bg-blue" href="#">Go To Exchanges</a>
+                                <a class="fugu--btn bg-blue" href="#">Register</a>
                             </div>
                         </div>
                     </div>
 
                 </div>
-            </div>
+            </div> --}}
         </div>
 
     </div>
@@ -578,87 +578,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-md-6">
-                    <div class="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".30s">
-                        <div class="fugu--testimonial-rating">
-                            <ul>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                            </ul>
-                        </div>
-                        <div class="fugu--testimonial-data">
-                            <p>“Trustable ☺️ Best way to earn passive income. Everything was well explained and it was easy
-                                to follow their clear. Very legit in crypto world.”</p>
-                        </div>
-                        <div class="fugu--testimonial-author">
-                            <div class="fugu--testimonial-author-thumb">
-                                <img src="/frontend/images/all-img/v5/author4.png" alt="">
-                            </div>
-                            <div class="fugu--testimonial-author-data">
-                                <span>- Francois Malan</span>
-                                <p>UI/UX Designer</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6">
-                    <div class="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".40s">
-                        <div class="fugu--testimonial-rating">
-                            <ul>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                            </ul>
-                        </div>
-                        <div class="fugu--testimonial-data">
-                            <p>“More than just satisfied.Trustable site and the owner is very friendly & calm. And it’s
-                                great! The 0,5-1% daily on average is the target.”</p>
-                        </div>
-                        <div class="fugu--testimonial-author">
-                            <div class="fugu--testimonial-author-thumb">
-                                <img src="/frontend/images/all-img/v5/author5.png" alt="">
-                            </div>
-                            <div class="fugu--testimonial-author-data">
-                                <span>- Nadir Zeblah</span>
-                                <p>Manager @ Company</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6">
-                    <div class="fugu--testimonial-wrap wow fadeInUpX" data-wow-delay=".50s">
-                        <div class="fugu--testimonial-rating">
-                            <ul>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                                <li><img src="/frontend/images/svg2/star.svg" alt=""></li>
-                            </ul>
-                        </div>
-                        <div class="fugu--testimonial-data">
-                            <p>“Best crypto scam investigator. It took less than 24h and gave all the details about the
-                                scammer and guided me. My heartfull thanks 💗 ”</p>
-                        </div>
-                        <div class="fugu--testimonial-author">
-                            <div class="fugu--testimonial-author-thumb">
-                                <img src="/frontend/images/all-img/v5/author6.png" alt="">
-                            </div>
-                            <div class="fugu--testimonial-author-data">
-                                <span>- Abdul Wadud</span>
-                                <p>WP Developer</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+               
             </div>
             <div class="fugu--testimonial-button">
-                <a class="fugu--btn bg-blue" href="#">View All Reviews</a>
+                <a class="fugu--btn bg-blue" href="https://whatsapp.com/channel/0029Va4SghpId7nSr6dBSK1d">Join Us</a>
             </div>
         </div>
     </div>
@@ -843,7 +766,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="fugu--cta-thumb wow fadeInUpX" data-wow-delay=".10s">
-                            <img src="/frontend/images/all-img/v5/cta-thumb.png" alt="">
+                            <img src="/banner.jpeg" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6 d-flex align-items-center">

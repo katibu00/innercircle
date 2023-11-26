@@ -13,8 +13,8 @@
         <div class="col-lg-5">
           <div class="fugu--thumb-three">
             <div class="fugu--hero-thumb fugu--hero-thumb3">
-              <img class="wow fadeInUpX" data-wow-delay="0.20s" src="/frontend/images/all-img/v5/hero-thumb.png" alt="">
-              <div class="fugu--bitcoin bitcoin-one">
+              <img class="wow fadeInUpX" data-wow-delay="0.20s" src="/banner.jpeg" alt="">
+              {{-- <div class="fugu--bitcoin bitcoin-one">
                 <img src="/frontend/images/all-img/v5/bitcoin1.png" alt="">
               </div>
               <div class="fugu--bitcoin bitcoin-two">
@@ -22,7 +22,7 @@
               </div>
               <div class="fugu--bitcoin bitcoin-three">
                 <img src="/frontend/images/all-img/v5/bitcoin3.png" alt="">
-              </div>
+              </div> --}}
             </div>
           </div>
         </div>
