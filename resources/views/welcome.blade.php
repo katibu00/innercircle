@@ -423,7 +423,7 @@
                         <div class="fugu--default-content">
                             <h2>Maximize your trading potential</h2>
                             <p>A great option to minimize trading costs. Spreads from 0 points on top instruments. Amazing benefit for your clients to use! </p>
-                            <div class="fugu--accordion-one accordion-two" id="accordionExample">
+                            {{-- <div class="fugu--accordion-one accordion-two" id="accordionExample">
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingOne">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
@@ -472,7 +472,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <div class="fugu--btn-wrap">
                                 <a class="fugu--btn bg-blue" href="https://fbs.partners?ibl=813364&ibp=33788856">Register</a>
                             </div>

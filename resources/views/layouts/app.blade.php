@@ -7,8 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>@yield('pageTitle') | InnerCircleTraders</title>
 
-  <link rel="shortcut icon" href="/frontend/images/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="/frontend/images/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="/logo.jpeg" type="image/x-icon">
+  <link rel="icon" href="/logo.jpeg" type="image/x-icon">
   <!--- End favicon-->
 
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Public+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
