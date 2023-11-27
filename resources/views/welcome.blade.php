@@ -5,7 +5,7 @@
     <div class="fugu--client-section">
         <div class="container">
             <div class="fugu--client-title">
-                <p>Trusted Over 80k+ Companies in the World</p>
+                <p>Our Partners & Affiliates</p>
             </div>
             <div class="fugu-client-slider">
                 <div class="fugu--brand-logo">
@@ -765,7 +765,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="fugu--cta-thumb wow fadeInUpX" data-wow-delay=".10s">
-                            <img src="/banner.jpeg" alt="Footer Banner">
+                            <img src="/banner1.jpeg" alt="Footer Banner">
                         </div>
                     </div>
                     <div class="col-lg-6 d-flex align-items-center">
