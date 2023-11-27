@@ -765,7 +765,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="fugu--cta-thumb wow fadeInUpX" data-wow-delay=".10s">
-                            <img src="/banner.jpeg" alt="">
+                            <img src="/banner.jpeg" alt="Footer Banner">
                         </div>
                     </div>
                     <div class="col-lg-6 d-flex align-items-center">

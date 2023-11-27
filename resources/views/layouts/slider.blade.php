@@ -13,7 +13,7 @@
         <div class="col-lg-5">
           <div class="fugu--thumb-three">
             <div class="fugu--hero-thumb fugu--hero-thumb3">
-              <img class="wow fadeInUpX" data-wow-delay="0.20s" src="/banner.jpeg" alt="">
+              <img class="wow fadeInUpX" data-wow-delay="0.20s" src="/banner.jpeg" alt="Banner Image">
               {{-- <div class="fugu--bitcoin bitcoin-one">
                 <img src="/frontend/images/all-img/v5/bitcoin1.png" alt="">
               </div>
