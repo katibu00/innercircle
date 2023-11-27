@@ -73,11 +73,11 @@
                                 <div class="fugu-pricing-body">
                                     <span>What you get:</span>
                                     <ul>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Crypto Trading Signals</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Online Support Group</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Supportive Community</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Risk Management Strategies</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Psychology</li>                                       
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Crypto Trading Signals</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Online Support Group</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Supportive Community</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Risk Management Strategies</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Psychology</li>                                       
                                     </ul>
                                 </div>
                                 <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
@@ -99,13 +99,13 @@
                                 <div class="fugu-pricing-body">
                                     <span>What you get:</span>
                                     <ul>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Live Trading Class</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Signals on Crypto & Forex</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Online Support Group</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Supportive Community</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Educational Recorded Content</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Psychology</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Risk Management Strategies</li>                                        
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Live Trading Class</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Signals on Crypto & Forex</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Online Support Group</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Supportive Community</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Educational Recorded Content</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Psychology</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Risk Management Strategies</li>                                        
                                     </ul>
                                 </div>
                                 <a class="fugu--outline-btn m-0" href=""><span>Choose the plan</span></a>
@@ -127,17 +127,17 @@
                                 <div class="fugu-pricing-body">
                                     <span>What you get:</span>
                                     <ul>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Live Trading Class</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Live Trading Class</li>
 
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Signals on Crypto, Forex & Metals</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Propfirm trading ( $5K - $100k Accts)</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Market Research on Crypto, Forex, & Metals.</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Online Support Group</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Supportive Community</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Educational Recorded Content</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Psychology</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">Risk Management Strategies</li>
-                                        <li><img src="assets/images/svg/check6.svg" alt="">ICT Concepts</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Signals on Crypto, Forex & Metals</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Propfirm trading ( $5K - $100k Accts)</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Market Research on Crypto, Forex, & Metals.</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Online Support Group</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Supportive Community</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Educational Recorded Content</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Psychology</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">Risk Management Strategies</li>
+                                        <li><img src="/frontend/images/svg/check4.svg" alt="">ICT Concepts</li>
                                        
                                     </ul>
                                 </div>
@@ -160,18 +160,18 @@
                                 <div class="fugu-pricing-body">
                                     <span>What you get:</span>
                                     <ul>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">Lifetime Mentorship</li>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">Live Trading Class</li>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">Trading indicators</li>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">Signals on Crypto, Forex, Indices, Stocks,& Metals</li>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">Propfirm trading ( $5K - $1M Accts)</li>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">Market Research on Crypto, Forex, & Metals.</li>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">Online Support Group</li>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">Supportive Community</li>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">Educational Recorded Content</li>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">Psychology</li>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">Risk Management Strategies</li>
-                                      <li><img src="assets/images/svg/check6.svg" alt="">ICT Concepts</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">Lifetime Mentorship</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">Live Trading Class</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">Trading indicators</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">Signals on Crypto, Forex, Indices, Stocks,& Metals</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">Propfirm trading ( $5K - $1M Accts)</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">Market Research on Crypto, Forex, & Metals.</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">Online Support Group</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">Supportive Community</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">Educational Recorded Content</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">Psychology</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">Risk Management Strategies</li>
+                                      <li><img src="/frontend/images/svg/check4.svg" alt="">ICT Concepts</li>
 
                                     </ul>
                                 </div>
@@ -195,9 +195,9 @@
             <div class="row">
                 <div class="col-xl-6">
                     <div class="fugu--video-thumb wow fadeInUpX" data-wow-delay="0.10s">
-                        <img src="/frontend/images/all-img/v5/video-thumb.png" alt="">
-                        <a class="fugu--popup" href="https://youtube.com/shorts/meB9LJJBaP4?si=9oIEk415gint1CPG">
-                            <img src="/frontend/images/all-img/v5/play-button.png" alt="">
+                        <img src="/frontend/images/all-img/hand-mocup.png" alt="">
+                        <a class="fugu--popup" href="https://youtube.com/shorts/meB9LJJBaP4?si=Y6iPu7SZJIq8pmEE">
+                            <img src="/frontend/images/all-img/v5/play-button.png" alt="Play">
                             <div class="waves wave-1"></div>
                             <div class="waves wave-2"></div>
                             <div class="waves wave-3"></div>
@@ -410,20 +410,19 @@
                     <div class="col-xl-6 d-flex align-items-center">
                         <div class="fugu--content-thumb">
                             <img class="wow fadeInLeft" data-wow-delay=".10s"
-                                src="/frontend/images/all-img/v5/thumb2.png" alt="">
-                            <div class="fugu--bitcoin">
+                                src="/about_img2.jpeg" alt="">
+                            {{-- <div class="fugu--bitcoin">
                                 <img src="/frontend/images/all-img/v5/bitcoin4.png" alt="">
                             </div>
                             <div class="fugu--content-shape">
                                 <img src="/frontend/images/shape2/shape-video.png" alt="">
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                     <div class="col-xl-6">
                         <div class="fugu--default-content">
-                            <h2>Easy step to use Fugu wallet on any device</h2>
-                            <p>While the concept is simple a place to store your crypto & use choosing Fugu crypto wallet
-                                can be an incredibly experience. </p>
+                            <h2>Maximize your trading potential</h2>
+                            <p>A great option to minimize trading costs. Spreads from 0 points on top instruments. Amazing benefit for your clients to use! </p>
                             <div class="fugu--accordion-one accordion-two" id="accordionExample">
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingOne">
@@ -491,7 +490,7 @@
         <div class="container">
             <div class="fugu--section-title">
                 <div class="fugu--default-content">
-                    <h2>Success Stories from Our Inner Circle</h2>
+                    <h2>Success Stories</h2>
                     <p>Discover What Our Members Have to Say About Their Trading Journey.</p>
                 </div>
             </div>
